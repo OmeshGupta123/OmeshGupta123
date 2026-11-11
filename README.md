@@ -10,7 +10,7 @@
     <a href="https://github.com/OmeshGupta123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=CURIOUS BY NATURE · ENGINEER BY PRACTICE;STAY CURIOUS · KEEP GROWING;NEVER STOP LEARNING · NEVER STOP EXPLORING;BUILT ON LEARNING · DRIVEN BY CURIOSITY;WONDER WITHOUT LIMITS · THINK WITHOUT BOUNDARIES;INQUISITIVE BY NATURE · INNOVATIVE BY CHOICE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=CURIOUS+BY+NATURE+%C2%B7+ENGINEER+BY+PRACTICE;STAY+CURIOUS+%C2%B7+KEEP+GROWING;NEVER+STOP+LEARNING+%C2%B7+NEVER+STOP+EXPLORING;BUILT+ON+LEARNING+%C2%B7+DRIVEN+BY+CURIOSITY;WONDER+WITHOUT+LIMITS+%C2%B7+THINK+WITHOUT+BOUNDARIES;INQUISITIVE+BY+NATURE+%C2%B7+INNOVATIVE+BY+CHOICE" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 - 🚀 **Passionate about:** Distributed backend systems, caching strategies, AI safety guardrails, and agentic workflows.
 - ⚡ **Competitive Coding:** Ranked **160 / 26,000+** in LeetCode Biweekly Contest 182 (**Top 0.6%**) & **3-Star** on CodeChef.
 - 🛠️ **Engineering Philosophy:** Write clean, resilient, and benchmarked code — proven with rigorous AST parsing, integration tests, and sub-10ms response latencies.
-- 🎭 **Fun Fact:** Outside of the terminal, I am a theatre artist who has performed on stage at Jawahar Kala Kendra (JKK), Jaipur.
+- 🎭 **Fun Fact:** Outside of terminal and code, I am a theatre artist who has performed on stage at Jawahar Kala Kendra (JKK), Jaipur.
 
 ---
 
@@ -110,18 +110,3 @@
   <b>Let's build something scalable together! 🚀</b><br>
   Feel free to reach out via <a href="https://www.linkedin.com/in/omesh-gupta-a2b511329/">LinkedIn</a> or drop an email at <a href="mailto:omeshkoshal@gmail.com">omeshkoshal@gmail.com</a>.
 </div>
-
-<!--
-**OmeshGupta123/OmeshGupta123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
