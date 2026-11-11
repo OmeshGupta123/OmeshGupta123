@@ -102,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmeshGupta123&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+  <img src="https://ghchart.rshah.org/2E90FA/OmeshGupta123" alt="Omesh's Github Contribution Chart" width="97%" />
 </p>
 
 ---
