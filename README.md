@@ -10,7 +10,7 @@
     <a href="https://github.com/OmeshGupta123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=Building+High-Performance+Backends;Architecting+Self-Healing+RAG+Systems;Top+0.6%25+LeetCode+Competitive+Programmer;Passionate+about+Low-Latency+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2E90FA&center=true&vCenter=true&width=620&lines=CURIOUS BY NATURE · ENGINEER BY PRACTICE;STAY CURIOUS · KEEP GROWING;NEVER STOP LEARNING · NEVER STOP EXPLORING;BUILT ON LEARNING · DRIVEN BY CURIOSITY;WONDER WITHOUT LIMITS · THINK WITHOUT BOUNDARIES;INQUISITIVE BY NATURE · INNOVATIVE BY CHOICE" alt="Typing SVG" />
 
 </div>
 
