@@ -89,20 +89,19 @@
 
 ### 📊 GitHub Activity & Metrics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=OmeshGupta123&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E90FA&text_color=98A2B3&icon_color=2E90FA" alt="Omesh's GitHub stats" height="175"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmeshGupta123&layout=compact&theme=tokyonight&hide_border=true&title_color=2E90FA&text_color=98A2B3" alt="Top Languages" height="175"/>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmeshGupta123&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmeshGupta123&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmeshGupta123&theme=tokyonight&hide_border=true&stroke=2E90FA&ring=2E90FA&fire=2E90FA" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=OmeshGupta123&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2E90FA/OmeshGupta123" alt="Omesh's Github Contribution Chart" width="97%" />
+</p>
 
 ---
 
