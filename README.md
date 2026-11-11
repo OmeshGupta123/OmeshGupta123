@@ -89,10 +89,12 @@
 
 ### 📊 GitHub Activity & Metrics
 
+### 📊 GitHub Activity & Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmeshGupta123&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmeshGupta123&theme=tokyonight" alt="GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmeshGupta123&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmeshGupta123&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
@@ -100,7 +102,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2E90FA/OmeshGupta123" alt="Omesh's Github Contribution Chart" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmeshGupta123&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
 </p>
 
 ---
