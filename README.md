@@ -89,8 +89,6 @@
 
 ### 📊 GitHub Activity & Metrics
 
-### 📊 GitHub Activity & Metrics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmeshGupta123&theme=tokyonight" alt="GitHub Stats" width="48%" />
   &nbsp;
